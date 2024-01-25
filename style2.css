@@ -33,7 +33,8 @@ body{
 }
 
 #nav1{
-    
+    margin-left: 20px;
+    margin-right: 100px;
     font-family:sans-serif;
     z-index: 1;
     display: flex;
