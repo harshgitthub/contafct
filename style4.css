@@ -36,6 +36,8 @@ video{
     justify-content: space-around;
     align-items:center;
     width: 100% ;
+     margin-left: 20px;
+    margin-right: 100px;
 }
 
 .h2{
